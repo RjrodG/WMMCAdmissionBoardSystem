@@ -45,9 +45,9 @@ Partial Class frmConnection
         Me.pnlupdatemed.BackColor = System.Drawing.Color.FromArgb(CType(CType(13, Byte), Integer), CType(CType(52, Byte), Integer), CType(CType(145, Byte), Integer))
         Me.pnlupdatemed.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.pnlupdatemed.Controls.Add(Me.Label8)
-        Me.pnlupdatemed.Location = New System.Drawing.Point(1, -4)
+        Me.pnlupdatemed.Location = New System.Drawing.Point(-7, -4)
         Me.pnlupdatemed.Name = "pnlupdatemed"
-        Me.pnlupdatemed.Size = New System.Drawing.Size(407, 54)
+        Me.pnlupdatemed.Size = New System.Drawing.Size(415, 54)
         Me.pnlupdatemed.TabIndex = 46
         '
         'Label8
@@ -56,7 +56,7 @@ Partial Class frmConnection
         Me.Label8.BackColor = System.Drawing.Color.Transparent
         Me.Label8.Font = New System.Drawing.Font("Arial", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label8.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.Label8.Location = New System.Drawing.Point(48, 14)
+        Me.Label8.Location = New System.Drawing.Point(50, 15)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(312, 29)
         Me.Label8.TabIndex = 42

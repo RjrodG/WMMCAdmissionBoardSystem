@@ -15,3 +15,24 @@ C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCAdmissionBoardSystem\WMM
 C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.TrustInfo.xml
 C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.exe.manifest
 C:\Users\User\Documents\Visual Studio 2019\Projects\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.application
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.Slide.resources
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.frmConnection.resources
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.frmMain.resources
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.Resources.resources
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.vbproj.GenerateResource.cache
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.exe
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.xml
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.pdb
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.FadeSingleaAnm.resources
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.FadeMultipleAnm.resources
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\bin\Debug\WMMCAdmissionBoardSystem.exe.config
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\bin\Debug\WMMCAdmissionBoardSystem.exe.manifest
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\bin\Debug\WMMCAdmissionBoardSystem.application
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\bin\Debug\WMMCAdmissionBoardSystem.exe
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\bin\Debug\WMMCAdmissionBoardSystem.pdb
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\bin\Debug\WMMCAdmissionBoardSystem.xml
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.TrustInfo.xml
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.exe.manifest
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.application
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.vbprojAssemblyReference.cache
+C:\Users\IT-Jaz\Documents\VS Project\WMMCAdmissionBoardSystem\WMMCAdmissionBoardSystem\obj\Debug\WMMCAdmissionBoardSystem.frmShowAppLocation.resources

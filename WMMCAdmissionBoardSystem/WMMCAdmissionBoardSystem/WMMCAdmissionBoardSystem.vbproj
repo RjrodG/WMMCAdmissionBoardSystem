@@ -11,11 +11,12 @@
     <AssemblyName>WMMCAdmissionBoardSystem</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>C:\Users\User\Desktop\WMMCAdmissionBoardSystem\</PublishUrl>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\IT-Jaz\Documents\VS Project\Installer\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -25,8 +26,8 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>3</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <ApplicationRevision>17</ApplicationRevision>
+    <ApplicationVersion>1.0.0.17</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -88,10 +89,6 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="System.Net.Http" />
   </ItemGroup>
   <ItemGroup>
     <Import Include="Microsoft.VisualBasic" />
@@ -107,7 +104,31 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Animations\FadeSingleaAnm.Designer.vb">
+      <DependentUpon>FadeSingleaAnm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Animations\FadeSingleaAnm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animations\FadeMultipleAnm.Designer.vb">
+      <DependentUpon>FadeMultipleAnm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Animations\FadeMultipleAnm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animations\SlideAnm.Designer.vb">
+      <DependentUpon>SlideAnm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Animations\SlideAnm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="DBconnSQLServer.vb" />
+    <Compile Include="frmShowAppLocation.Designer.vb">
+      <DependentUpon>frmShowAppLocation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowAppLocation.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmConnection.Designer.vb">
       <DependentUpon>frmConnection.vb</DependentUpon>
     </Compile>
@@ -137,6 +158,18 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Animations\FadeSingleaAnm.resx">
+      <DependentUpon>FadeSingleaAnm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animations\FadeMultipleAnm.resx">
+      <DependentUpon>FadeMultipleAnm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animations\SlideAnm.resx">
+      <DependentUpon>SlideAnm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowAppLocation.resx">
+      <DependentUpon>frmShowAppLocation.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmConnection.resx">
       <DependentUpon>frmConnection.vb</DependentUpon>
     </EmbeddedResource>
@@ -165,11 +198,6 @@
     <None Include="WMMCAdmissionBoardSystem_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
-      <Visible>False</Visible>
-      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
-      <Install>true</Install>
-    </BootstrapperPackage>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
       <Visible>False</Visible>
       <ProductName>.NET Framework 3.5 SP1</ProductName>
